@@ -1,0 +1,10 @@
+<div className="p-4 bg-slate-50 ">
+            <img className="w-64 mb-4" src={Image1} alt="Image1" />
+            <p>Sony Wh-ch510 Bluetooth Wireless</p>
+            <div className="flex justify-around items-center my-3">
+              <p>$149</p>
+              <div className="text-white p-2 rounded font-bold bg-blue-800">
+                Add to Cart
+              </div>
+            </div>
+          </div>
